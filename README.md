@@ -20,4 +20,6 @@ To become a Python Full Stack Developer by building projects and staying consist
 - Small projects
 - Learning in public
 
+Today i have learned the html protfolio building
+
 
